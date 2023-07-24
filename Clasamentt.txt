@@ -1,0 +1,10 @@
+26 || NoName || Dificultate: 1 || Pasi facuti: 10 din 40 || Timp ramas: 04:51:19 din 05:00:00 || Dimensiune harta: 5
+16 || NoName || Dificultate: 1 || Pasi facuti: 10 din 40 || Timp ramas: 04:41:52 din 05:00:00 || Dimensiune harta: 5
+11 || NoName || Dificultate: 1 || Pasi facuti: 9 din 40 || Timp ramas: 04:54:97 din 05:00:00 || Dimensiune harta: 5
+10 || NoName || Dificultate: 1 || Pasi facuti: 10 din 40 || Timp ramas: 04:51:62 din 05:00:00 || Dimensiune harta: 5
+09 || NoName || Dificultate: 1 || Pasi facuti: 4 din 40 || Timp ramas: 04:53:29 din 05:00:00 || Dimensiune harta: 5
+09 || NoName || Dificultate: 1 || Pasi facuti: 3 din 40 || Timp ramas: 04:57:68 din 05:00:00 || Dimensiune harta: 3
+08 || NoName || Dificultate: 1 || Pasi facuti: 11 din 40 || Timp ramas: 04:47:39 din 05:00:00 || Dimensiune harta: 5
+07 || NoName || Dificultate: 1 || Pasi facuti: 9 din 40 || Timp ramas: 04:53:20 din 05:00:00 || Dimensiune harta: 5
+06 || NoName || Dificultate: 1 || Pasi facuti: 11 din 40 || Timp ramas: 04:40:98 din 05:00:00 || Dimensiune harta: 5
+03 || NoName || Dificultate: 1 || Pasi facuti: 10 din 40 || Timp ramas: 04:45:46 din 05:00:00 || Dimensiune harta: 5
